@@ -11,9 +11,9 @@
 
 > #nlw3 #happy #web
 
-### 🏠 [Homepage](ericrocha.dev)
+### 🏠 [Homepage](https://ericrocha.dev)
 
-### ✨ [Demo](ericrocha.dev)
+### ✨ [Demo](https://ericrocha.dev)
 
 ## Install
 
